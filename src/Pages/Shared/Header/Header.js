@@ -12,8 +12,8 @@ const Header = () => {
 
     return (
 
-        <>
-            <Navbar fixed="top" className='header ' collapseOnSelect expand="lg" bg-transparent>
+        <div>
+            <Navbar fixed="top" className='header ' collapseOnSelect expand="lg" >
                 <Container>
                     <Navbar.Brand href="#home">Vacaday-Travel-Agency</Navbar.Brand>
                     <Navbar.Toggle />
@@ -33,7 +33,7 @@ const Header = () => {
                     </Navbar.Collapse>
                 </Container>
             </Navbar>
-        </>
+        </div>
 
     );
 };

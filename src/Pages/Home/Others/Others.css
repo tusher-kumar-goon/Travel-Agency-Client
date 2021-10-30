@@ -1,0 +1,27 @@
+.comments{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 40px;
+}
+.box{
+    background-color:lightblue;
+    text-align: inherit;
+    border-radius: 30px;
+    box-shadow: 10px 10px 20px 10px;
+   
+    
+}
+.box h4{
+    font-weight: 800;
+    color: rgb(13, 134, 50);
+}
+@media only screen and (max-width:688px) {
+    .comments{
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
+@media only screen and (min-width:689px) and (max-width: 991px){
+    .comments{
+        grid-template-columns: repeat(2, 1fr);
+    }
+}

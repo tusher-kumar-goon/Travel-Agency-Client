@@ -6,14 +6,14 @@ import './Services.css'
 const Services = () => {
     const [services, setServices] = useState([])
     useEffect(() => {
-        fetch('services.json')
+        fetch('http://localhost:5000/services')
             .then(res => res.json())
             .then(data => setServices(data))
     }, [])
     return (
 
         <div id="services">
-            <h2 className='text-warning mt-4'>Our Packeg</h2>
+            <h2 className='text-warning mt-4'>TOP PACKAGES</h2>
             <div className="service-container">
                 {
                     services.map(service => <Service

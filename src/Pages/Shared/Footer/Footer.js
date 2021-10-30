@@ -11,7 +11,11 @@ const Footer = () => {
                         <div className="row">
                             <div className="col-sm-12 col-md-6">
                                 <h6>About</h6>
-                                <p className="text-justify">private health Ltd. , a private limited company a trusted name in medical services has started its operation in January, 2016. It is well equipped and is manned by qualified professionals. Our aim is to provide top-notch healthcare services under one roof and bring a revolution in the world of healthcare by providing advance medical services with utmost care and vigilance. </p>
+                                <p className="text-justify">A family company, guided by Tusher Kumar Goon, we pride ourselves on our ability to innovate.
+
+                                    We were the first to create Insider Experiences; enabling our guests to appreciate their destination through genuine local experiences, such as dining with locals in their homes. And we continue to evolve guided travel in new directions.
+
+                                </p>
                             </div>
 
                             <div className="col-xs-6 col-md-3">
@@ -43,7 +47,7 @@ const Footer = () => {
                         <div className="row">
                             <div className="col-md-8 col-sm-6 col-xs-12">
                                 <p className="copyright-text">Copyright &copy; 2021 All Rights Reserved by
-                                    Tusher Goon Health care
+                                    Tusher Travel Agency
                                 </p>
                             </div>
 
