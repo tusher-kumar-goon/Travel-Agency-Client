@@ -1,0 +1,56 @@
+[
+    {
+        "key": 1,
+        "name": " Paris Hill Tour",
+        "price": 8000,
+        "details": "The Montmartre is a large hill located in Paris, in the 18th arrondissement. People think of it as a unique, quaint little village, located right within the city limits.",
+        "img": "https://i.ibb.co/L9FgTmc/service1.png",
+        "from": "Bangladesh",
+        "specilist": ""
+    },
+    {
+        "key": 2,
+        "name": "Lake Garda, Italy",
+        "price": 9000,
+        "details": "If you're short on time but want to see some highlights of Lake Garda, book this 25-minute cruise and glide around the scenic Sirmione peninsula. .",
+        "img": "https://i.ibb.co/qJJR6tf/service2.png",
+        "from": "India",
+        "specilist": ""
+    },
+    {
+        "key": 3,
+        "name": "DMount Dtna, Italyr",
+        "price": 10000,
+        "details": "Mount Etna, or Etna, is an active stratovolcano on the east coast of Sicily, Italy, in the Metropolitan City of Catania, between the cities of Messina and Catania.",
+        "img": "https://i.ibb.co/7Vn5fBg/service3.png",
+        "from": "India",
+        "specilist": ""
+    },
+    {
+        "key": 4,
+        "name": "Amalfi Costa, Italy",
+        "price": 20000,
+        "details": "The Amalfi Coast is a 50-kilometer stretch of coastline along the southern edge of Italy’s Sorrentine Peninsula, in the Campania region. It’s a popular holiday destination its best place for tour, ",
+        "img": "https://i.ibb.co/b7s4Scd/service4.png",
+        "from": "Spain",
+        "specilist": ""
+    },
+    {
+        "key": 5,
+        "name": "French Rivira, France",
+        "price": 50000,
+        "details": "The French Riviera (or Côte d'Azur) is the Mediterranean coast of southeastern France. It includes famously glamorous beach resorts such as Saint-Tropez and Cannes.",
+        "img": "https://i.ibb.co/0ZH7RPD/service5.png",
+        "from": "India",
+        "specilist": ""
+    },
+    {
+        "key": 6,
+        "name": "Lake Geneva, France.",
+        "price": 60000,
+        "details": "Lake Geneva (or Lac Léman) is a crescent-shaped lake shared between France and Switzerland, and overlooked by the Alps. Geneva, the Swiss city at its southern tip,",
+        "img": "https://i.ibb.co/Bywzb5K/service6.png",
+        "from": "Oakland",
+        "specilist": " "
+    }
+]
