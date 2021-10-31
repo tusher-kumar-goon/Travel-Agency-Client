@@ -1,6 +1,10 @@
 .details-card{
 margin-left: 40px;
 }
+.confirm-booking input{
+    width: 70%;
+    margin-bottom: 10px;
+}
 
 .corfirm-order{
     display: grid;

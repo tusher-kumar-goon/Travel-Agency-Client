@@ -28,7 +28,25 @@ const Booking = () => {
                 </Card>
             </div>
             <div>
-                <h3>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed provident esse ex rerum harum sapiente earum totam eum iusto delectus explicabo exercitationem inventore dolore cumque et, vero doloremque nesciunt, animi corporis consectetur ullam eligendi. Placeat, atque incidunt ullam ipsam nesciunt cupiditate nobis, ad saepe enim iure minima commodi earum reprehenderit.</h3>
+                <h2 className="text-primary mb-5">Booking Information </h2>
+                <form>
+                    <div className="mb-3">
+                        <input type="email" className="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder='Email' />
+                    </div>
+                    <div className="mb-3">
+                        <input type="password" className="form-control" id="exampleInputPassword1" placeholder='Password' />
+                    </div>
+                    <div className="mb-3">
+                        <input type="text" className="form-control" placeholder='Name' />
+                    </div>
+                    <div className="mb-3">
+                        <input type="text" className="form-control" placeholder='City' />
+                    </div>
+                    <div className="mb-3 ">
+                        <input type="text" className="form-control" placeholder='Country' />
+                    </div>
+                    <button type="submit" className="btn btn-primary">Confirm Order</button>
+                </form>
             </div>
         </div>
     );

@@ -15,13 +15,13 @@ const Header = () => {
         <div>
             <Navbar fixed="top" className='header ' collapseOnSelect expand="lg" >
                 <Container>
-                    <Navbar.Brand href="#home">Vacaday-Travel-Agency</Navbar.Brand>
+                    <Navbar.Brand href="#home">Vacaday- <span>Travel-Agency</span></Navbar.Brand>
                     <Navbar.Toggle />
                     <Navbar.Collapse className="justify-content-end nav">
                         <Nav.Link as={HashLink} to="/home#home" >Home</Nav.Link>
                         <Nav.Link as={HashLink} to="/home#services">Services</Nav.Link>
                         <Nav.Link as={HashLink} to="/home#others">Others</Nav.Link>
-                        {/* <Nav.Link as={HashLink} to="/home#bestDeal">Best Deal</Nav.Link> */}
+
                         <Nav.Link as={HashLink} to="/addService">AddService</Nav.Link>
                         <Nav.Link as={HashLink} to="/manageServices">ManageServices</Nav.Link>
 
