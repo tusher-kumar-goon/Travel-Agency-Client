@@ -29,7 +29,7 @@ const ManageServices = () => {
     return (
 
         <div className="mt-5">
-            <h2>This is manage service</h2>
+            <h2>This is manage All service</h2>
             <div className='mt-5 manage-part'>
 
                 {
